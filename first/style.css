@@ -1,0 +1,24 @@
+body {
+  background: rgb(203, 203, 203); /*<---- made the background the light gray*/
+}
+
+.top-section {
+  width: 100%;
+  height: 20vh;
+  background: rgb(54, 54, 54);
+
+}
+
+.center {
+  background: rgb(255, 255, 255);
+  height: 100vh;
+  margin: auto;
+  width: 85%;
+}
+
+footer {
+  height: 15vh;
+  background: rgb(54, 54, 54);
+  margin: auto;
+  width: 85%;
+}
